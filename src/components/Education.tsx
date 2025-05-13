@@ -20,18 +20,17 @@ const Education = () => {
 
   const education = [
     {
-      degree: "Master of Business Administration (MBA)",
-      institution: "Harvard Business School",
-      period: "2023 - Present",
-      description: "Specializing in Finance and Strategic Management with a focus on digital transformation. Maintaining a 3.9 GPA while participating in various business case competitions.",
-      achievements: ["Dean's List 2023", "Business Strategy Competition Winner", "Leadership Excellence Award"]
+      Degree: "Master of Business Administration (MBA)",
+      Institution: "Lovely Professional University",
+      Period: "2024 - Present",
+      Description: "Specializing in Financial Consulting and Sales and Distribution with a focus on digital transformation. Maintaining a 7.54 CGPA while participating in various events and club activities.",
     },
     {
-      degree: "Bachelor of Commerce (B.Com)",
-      institution: "University of Delhi",
-      period: "2016 - 2019",
-      description: "Graduated with honors, specializing in Finance and Accounting. Actively participated in business clubs and entrepreneurship initiatives.",
-      achievements: ["Graduated with Distinction", "President of Business Club", "National Merit Scholarship"]
+      Degree: "Bachelor of Business Administration (BBA)",
+      Institution: "North Bengal St. Xavier's College ",
+      Period: "2021 - 2024",
+      Description: "Graduated with honors, specializing in Marketing. Actively participated in business clubs and entrepreneurship initiatives.",
+      Achievements: ["Most Active Student Award", "Student of the Year Award", "Business Start-Up Strategy Award", "Joint Secretary  of the Campus"]
     }
   ];
 
