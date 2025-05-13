@@ -105,7 +105,7 @@ const Hero = () => {
           >
             <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-primary animate-float">
               <img 
-                src="https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                src="src/Ankit new 111.png" 
                 alt="Ankit Thakur" 
                 className="w-full h-full object-cover"
               />
